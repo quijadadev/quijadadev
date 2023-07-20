@@ -1,8 +1,3 @@
- <div>
-   <a href="https://github.com/quijadadev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 <p align="center">
 Sou um estudante fascinado por programação web. Meu objetivo é desenvolver aplicações Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
