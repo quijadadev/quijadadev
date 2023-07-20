@@ -34,6 +34,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 ## 🎯 Metas Futuras
 
+- 👨‍🎓 Concluir Graduação em Ciência da Computação
 - 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 - 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
