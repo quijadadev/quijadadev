@@ -1,3 +1,4 @@
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=&show_icons=true&theme=radical&hide"/>
 
 <p align="center">
 Sou um estudante fascinado por programação web. Meu objetivo é desenvolver aplicações Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
