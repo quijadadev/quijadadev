@@ -1,4 +1,3 @@
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=radical&hide"/>
 
 <p align="center">
 Sou um estudante fascinado por programação web. Meu objetivo é desenvolver aplicações Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
@@ -111,7 +110,7 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=quijadadev&theme=radical&hide_border=true" alt="quijadadev" width="390"/>
 </p>
 </details>
   
