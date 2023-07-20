@@ -1,6 +1,6 @@
 
 <p align="center">
-Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicações da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
@@ -20,9 +20,9 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🌱 Atualmente estou aprendendo **React**.
 
-- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
+- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/quijadadev)!
 
-- 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
+- 📫 Como me contatar: **quijada.dev@gmail.com**.
 
 - 💬 Me pergunte sobre **HTML e CSS**.
 
@@ -47,8 +47,8 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 <div align = "center">
     
-[![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/bush1D3v)](https://www.frontendmentor.io/profile/bush1D3v)&nbsp;
+[![Gmail: Gabriel Quijada](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/quijadadev)](https://www.frontendmentor.io/profile/quijadadev)&nbsp;
 <a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
  <a href="https://discord.gg/f65nxQt7UV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
   <a href="https://www.linkedin.com/in/victor-jos%C3%A9-lopes-navarro-763345279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
