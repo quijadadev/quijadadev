@@ -15,7 +15,6 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 <br>
 
 
-
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **React**.
@@ -30,7 +29,6 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 
 <br>
 <br>
-
 
 ## 🎯 Metas Futuras
 
@@ -100,7 +98,6 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 
 </div>
 
-
 <br>
 
 <h2 align="center">👨‍💻 Mais Sobre mim no GitHub</h2>
@@ -114,8 +111,6 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 </p>
 </details>
   
-  
-
 
 <!-- BLOG-POST-LIST:END -->
 </p>
