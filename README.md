@@ -17,7 +17,7 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
-- 🌱 Atualmente estou aprendendo **React**.
+- 🌱 Atualmente estou aprendendo **JavaScript**.
 
 - 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/quijadadev)!
 
