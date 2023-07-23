@@ -1,6 +1,6 @@
 
 <p align="center">
-Sou um estudante fascinado por programação web. Meu objetivo é desenvolver aplicações web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou em constante aprendizado e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para possíveis problemas.
+Olá! 👋 Sou um jovem fascinado pelo universo da programação web, especialmente quando se trata de proporcionar uma experiência excepcional aos usuários! 💻🌐 Desde que me apaixonei por desenvolvimento web, meu foco tem sido criar interfaces envolventes e funcionais que tornem a jornada dos usuários simples e memorável.
 </p>
 
 ##
