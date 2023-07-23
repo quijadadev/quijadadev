@@ -38,8 +38,8 @@ Sou um estudante fascinado por programação web. Meu objetivo é desenvolver ap
 
 ## 📈 Conquistas
 
-- 🧑‍🎓 Atualmente cursando 2º Semestre em **Ciência da Computação**.
-- 🎉 7 Meses de **Estudos Focados**, sem parar um dia.
+- 🧑‍🎓 Atualmente cursando 2º semestre em **Ciência da Computação**.
+- 🎉 1 Mês de **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo e DevQuest**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
