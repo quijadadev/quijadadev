@@ -1,6 +1,6 @@
 Olá! 👋
 <p align="center">
-Sou um estudante fascinado pelo universo de desenvolvimento web, especialmente quando se trata de proporcionar uma experiência excepcional aos usuários! Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que tornem a jornada dos usuários simples e funcional. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+Sou um estudante fascinado pelo universo de desenvolvimento web, especialmente quando se trata de proporcionar uma experiência excepcional aos usuários! Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que tornem a jornada dos usuários simples e memorável. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
