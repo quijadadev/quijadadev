@@ -1,6 +1,6 @@
 Olá! 👋
 <p align="center">
-Sou um estudante fascinado pelo universo de desenvolvimento web, especialmente quando se trata de proporcionar uma experiência excepcional aos usuários! Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que tornem a jornada dos usuários simples e memorável. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
 </p>
 
 ##
@@ -49,8 +49,8 @@ Sou um estudante fascinado pelo universo de desenvolvimento web, especialmente q
 [![Gmail: Gabriel Quijada](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quijada.dev@gmail.com)](mailto:quijada.dev@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/quijadadev)](https://www.frontendmentor.io/profile/quijadadev)&nbsp;
 <a href="https://www.instagram.com/biel.quijada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
- <a href="https://discord.gg/8WaV8FEV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
-  <a href="www.linkedin.com/in/gabriel-quijada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://discord.gg/8WaV8FEV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+<a href="www.linkedin.com/in/gabriel-quijada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
 
