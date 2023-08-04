@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/quijadadev/quijadadev/assets/138597964/0b33a3a6-b8ae-487d-953d-544de200277e)
+![Banner GitHub](https://github.com/quijadadev/quijadadev/assets/138597964/c0ba0b9b-4cfd-411f-b05e-9a7b7476261f)
 
 
 Olá! 👋
