@@ -9,9 +9,10 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 <br>
 
-<img height="180em" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img height="180em" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br>
 
