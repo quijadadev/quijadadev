@@ -9,6 +9,11 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 <br>
 
+<img align="right" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true" width="360px" />
+<img align="right" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="360px"/>
+
+<br>
+
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **JavaScript**.
