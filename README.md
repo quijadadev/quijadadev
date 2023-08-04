@@ -19,15 +19,13 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 - 🤝 Estou procurando ajuda para aprender sobre **User Experience - UX**.
 
-##
-
 <br>
 
 <h2 align="center">⚡ Estatísticas</h2>
 
 <p align="center">
-<img height="190em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="190em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
