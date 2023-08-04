@@ -5,17 +5,7 @@ Olá! 👋
 Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
 </p>
 
-##
-
 <br>
-
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-
-
-<br>
-
 
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
