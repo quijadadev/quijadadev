@@ -17,7 +17,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 - 📫 Como me contatar: **quijada.dev@gmail.com**.
 
-- 💬 Me pergunte sobre **HTML e CSS**.
+- 💬 Pergunte-me sobre **Programação**.
 
 - 🤝 Estou procurando ajuda para aprender sobre **User Experience - UX**.
 
