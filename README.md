@@ -107,7 +107,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=quijadadev&theme=tokyonight" alt="quijadadev" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=quijadadev&theme=tokyonight&hide_border=true" alt="quijadadev" width="390"/>
 </p>
 </details>
   
@@ -120,8 +120,8 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 </details>
 
