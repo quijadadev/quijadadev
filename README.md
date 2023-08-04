@@ -19,7 +19,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 - 💬 Pergunte-me sobre **Programação**.
 
-- 🤝 Estou procurando ajuda para aprender sobre **User Experience - UX**.
+- 🤝 Estou procurando ajuda para aprender sobre **Experiência do usuário**.
 
 <br>
 
