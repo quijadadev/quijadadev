@@ -9,12 +9,15 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 <br>
 
+
 <img align="right" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide_border=true" width="300px" />
 <br>
 <br>
 <img align="right" alt="stats" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="300px"/>
 
+
 <br>
+
 
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
@@ -28,6 +31,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 - 🤝 Estou procurando ajuda para aprender sobre **User Experience - UX**.
 
+<br>
 <br>
 
 ## 🎯 Metas Futuras
