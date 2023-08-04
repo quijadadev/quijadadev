@@ -7,6 +7,8 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 ##
 
+<br>
+
 - 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
 
 - 🌱 Atualmente estou aprendendo **JavaScript**.
