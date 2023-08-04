@@ -49,7 +49,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 [![Gmail: Gabriel Quijada](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quijada.dev@gmail.com)](mailto:quijada.dev@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/quijadadev)](https://www.frontendmentor.io/profile/quijadadev)&nbsp;
 <a href="https://www.instagram.com/biel.quijada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-<a href="https://discord.gg/8WaV8FEV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+<a href="https://discord.gg/VUGuB2twSR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
 <a href="www.linkedin.com/in/gabriel-quijada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
@@ -107,7 +107,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=quijadadev&theme=radical&hide_border=true" alt="quijadadev" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=quijadadev&theme=tokyonight&hide_border=true" alt="quijadadev" width="390"/>
 </p>
 </details>
   
@@ -120,8 +120,8 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=radical&hide"/>
-<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=radical&hide"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api?username=quijadadev&show_icons=true&theme=tokyonight&hide"/>
+<img height="180em" src="https://github-readme-stats-vert-three-11.vercel.app/api/top-langs/?username=quijadadev&layout=compact&langs_count=6&theme=tokyonight&hide"/>
 </p>
 </details>
 
