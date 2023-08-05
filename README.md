@@ -38,7 +38,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 - 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 
-## 📈 Conquistas
+## ⭐ Conquistas
 
 - 🧑‍🎓 Atualmente cursando 2º semestre em **Ciência da Computação**.
 - 🎉 1 Mês de **Estudos Focados**, sem parar um dia.
