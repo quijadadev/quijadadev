@@ -52,7 +52,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/quijadadev)](https://www.frontendmentor.io/profile/quijadadev)&nbsp;
 <a href="https://www.instagram.com/biel.quijada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 <a href="https://discord.gg/577TSgsM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
-<a href="www.linkedin.com/in/gabriel-quijada" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="www.linkedin.com/in/quijadadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
 
