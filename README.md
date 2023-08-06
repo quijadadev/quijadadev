@@ -33,7 +33,7 @@ Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou
 
 ## 🎯 Metas Futuras
 
-- 🧑‍🎓 Concluir Graduação em **Ciência da Computação**.
+- 🧑‍🎓 Concluir Bacharelado em **Ciência da Computação**.
 - 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
 - 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
 
