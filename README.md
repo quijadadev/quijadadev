@@ -1,6 +1,5 @@
 ![Banner GitHub](https://github.com/quijadadev/quijadadev/assets/138597964/13f7d5fe-ec7e-46cc-a4f1-b1bd8ea83ba4)
 
-Olá! 👋
 <p align="center">
 Sou um estudante fascinado pelo universo de desenvolvimento web. Desde que estou me aprofundando no desenvolvimento web, meu objetivo tem sido criar interfaces envolventes e funcionais que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
 </p>
