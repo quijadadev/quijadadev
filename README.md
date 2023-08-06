@@ -47,9 +47,9 @@ Sou um estudante apaixonado pelo universo do desenvolvimento web. Desde que come
 
 <div align = "center">
     
-<a href="https://www.linkedin.com/in/quijadadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-[![Gmail: Gabriel Quijada](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quijada.dev@gmail.com)](mailto:quijada.dev@gmail.com)&nbsp;
+<a href="https://www.linkedin.com/in/quijadadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/quijadadev)](https://www.frontendmentor.io/profile/quijadadev)&nbsp;
+[![Gmail: Gabriel Quijada](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:quijada.dev@gmail.com)](mailto:quijada.dev@gmail.com)&nbsp;
 <a href="https://www.instagram.com/biel.quijada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 <a href="https://discord.gg/577TSgsM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
   
