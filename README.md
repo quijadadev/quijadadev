@@ -40,7 +40,7 @@ Sou um estudante apaixonado pelo universo do desenvolvimento web. Desde que come
 ## ⭐ Conquistas
 
 - 🧑‍🎓 Atualmente cursando 2º semestre em **Ciência da Computação**.
-- 🎉 1 Mês de **Estudos Focados**, sem parar um dia.
+- 🎉 2 Meses de **Estudos Focados**, sem parar um dia.
 - 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo e DevQuest**.
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
